@@ -1,0 +1,14 @@
+Flask
+click
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+keras
+numpy
+pandas
+pandas-datareader
+pandas-gbq
+scikit-learn
+tensorflow
